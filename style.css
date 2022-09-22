@@ -7,3 +7,11 @@ h1 {
     text-align: center;
     font-size: 50px;
 }
+
+.tenor-gif-embed {
+  top:0px; 
+  max-width:50%; 
+  height:50%; 
+  background-repeat:no-repeat; 
+  background-position:center; 
+}
